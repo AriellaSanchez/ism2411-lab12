@@ -1,1 +1,1 @@
-# ism2411-lab12
+# ism2411-lab12 - read a sales csv, write a cleaned report, Ariella Sanchez, csv_practice.py
